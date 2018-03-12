@@ -19,6 +19,9 @@ Copyright (C) 2010 Chris Westling, Mann Library ITS, Cornell University
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 WARNING: work in progress - test on small files first!
+
 TODO: build GUI, better exception handling, code cleanup and optimization
+
 INFO: Chris Westling Mann Library ITS, Cornell University, Ithaca, NY
+
 E-MAIL: cmw48@cornell.edu
